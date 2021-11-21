@@ -13,14 +13,14 @@ body{
 
 header{
     background-color: #181869;
-    height: 125px;
+    height: 130px;
     padding-top: 10px;;
     box-shadow: 1px 1px 1px 3px rgba(19, 0, 102, 0.349);
     color: white;
 }
 
 header > h1 {
-    margin-bottom: 5px;
+    margin-bottom: 0px;
     font-style: normal;
 }
 
